@@ -50,7 +50,7 @@ def menu_principal():
         print("\nTOTEM AUTOATENCIÓN RESERVA STRIKE")
         print("1.- Reservar zapatillas")
         print("2.- Buscar zapatillas reservadas")
-        print("3.- Cancelar reserva")
+        print("3.- Cancelar reserva de zapatillas")
         print("4.- Salir")
         opcion = input("Seleccione una opción (1-4): ")
         if opcion == "1":
